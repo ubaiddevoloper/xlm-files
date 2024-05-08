@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Player [
+<!ELEMENT Player (First, Final,Semester)>
+<!ELEMENT FirstName (#PCDATA)>
+<!ELEMENT LastName (#PCDATA)>
+<!ELEMENT Semester (#PCDATA)>
+
+]>
+<Player Sex="male">
+<FirstName>Tom</FirstName>
+<LastName>Federer</LastName>
+</Player>
